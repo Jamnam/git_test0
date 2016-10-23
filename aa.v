@@ -3,5 +3,6 @@ module a(
 	output c);
 wire d;
 wire e;
+wire f;
 
 endmodule
